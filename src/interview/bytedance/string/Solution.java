@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 字符串使用算法
  * @author zhendong.Z
  * @date 2019-06-04 20:57
  */
